@@ -2,7 +2,7 @@
 
 **DevOps Engineer** based in Lahore, Pakistan 🇵🇰
 
-I build and maintain cloud infrastructure, deployment pipelines, and observability systems for production applications. I work at the intersection of engineering and business — I don't just set up DevOps tooling, I focus on what actually slows teams down and fix that.
+I build and maintain cloud infrastructure, deployment pipelines, and observability systems for production applications. I work at the intersection of engineering and business - I don't just set up DevOps tooling, I focus on what actually slows teams down and fix that.
 
 ---
 
@@ -81,7 +81,7 @@ I build and maintain cloud infrastructure, deployment pipelines, and observabili
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-amanat-300677202/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@barq.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalamanat2119@gmail.com)
 
 ---
 
